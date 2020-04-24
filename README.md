@@ -1,5 +1,5 @@
-# AR Object with OpenCV and OpenGL
-Putting an 3D object on a 2D chessboard in image, video and live-camera using OpenCV and OpenGL. 
+# AR 3D Object on Calibrated 2D Chessboard
+Putting an 3D object on a 2D chessboard in image, video and live-camera. 
 
 Procedure: 
 1. Camera calibration with OpenCV
