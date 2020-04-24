@@ -6,7 +6,7 @@ Procedure:
 2. Augmented teaport with OpenGL renderings
 
 
-# References: 
+# References
 
 http://www.cs.ucsb.edu/~holl/CS291A/opengl_cv.cpp
 
