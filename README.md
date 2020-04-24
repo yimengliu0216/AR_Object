@@ -1,3 +1,6 @@
-# AR-Teapot-with-OpenCV-and-OpenGL
-Putting a teapot on chessboard in image, video and live-camera using OpenCV and OpenGL. 
-The program can draw a teaport in the center of a chessboard. 
+# AR-Object-with-OpenCV-and-OpenGL
+Putting an 3D object on a 2D chessboard in image, video and live-camera using OpenCV and OpenGL. 
+
+Procedure: 
+1. Camera calibration with OpenCV
+2. Augmented teaport with OpenGL renderings
